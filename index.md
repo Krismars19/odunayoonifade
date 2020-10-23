@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Science Portfolio Projects
 
 You can use the [editor on GitHub](https://github.com/Krismars19/krismars.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
