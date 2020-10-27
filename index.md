@@ -1,8 +1,35 @@
 ## Data Science Portfolio Projects
 
-You can use the [editor on GitHub](https://github.com/Krismars19/krismars.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Odunayo Onifade is a data scientist with a background in Urban Planning and Geomatics who focuses on solving problems in the telematics industry.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### I will follow these steps to complete the data process:
+
+1. Import – Get the data from an original source
+
+2. Store – Store the data into a data store (database is most common)
+
+3. Extract – Get the data from the data store
+
+4. Organize – Organize the data into a usable subset
+
+5. Tidy – Scrub / Clean the data
+
+6. Transform – Change data into something your program / algorithm / statistical package will understand
+
+7. Visualize – Descriptive statistics exploration
+
+8. Model – Statistics + Machine Learning + Experiment Design
+
+9. Coding – Machine Learning + Algorithms + Code
+
+10. Understand – Explain insights achieved
+
+11. Communicate – What was the approach, what worked, what didn’t work, what assumptions were made, what would you do different, why do insights matter
+
+12. Next Steps – Where you go from here
+
+13. Document – Code + Thought process + where everything came from (makes it so that you can replicate in the future with ease)
+
 
 ### Markdown
 
@@ -25,8 +52,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
