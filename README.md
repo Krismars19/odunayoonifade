@@ -6,7 +6,7 @@ Data Process step for Data Science project:
 
 
 
-Resources datasets
+#### Other Resources for datasets acquisition
 1. [25 Datasets for Deep Learning in IoT](https://hub.packtpub.com/25-datasets-deep-learning-iot/)
 2. [Statistics Canada](https://www150.statcan.gc.ca/n1/en/type/data?MM=1)
 3. [United States Data](https://catalog.data.gov/dataset)
