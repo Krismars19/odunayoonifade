@@ -2,8 +2,8 @@
 
 Data Process step for Data Science project:
 1. Data Acquisition
-- [Gas Sensor Dataset](https://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset)
-- [Solar Power Generation Data](https://www.kaggle.com/anikannal/solar-power-generation-data)
+    - [Gas Sensor Dataset](https://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset)
+    - [Solar Power Generation Data](https://www.kaggle.com/anikannal/solar-power-generation-data)
 
 
 
