@@ -2,7 +2,9 @@
 
 ![Photo](https://github.com/Krismars19/odunayoonifade/blob/gh-pages/Images/Odunayo's%20photo.jpg)
 
-[About]()	    [Projects]()	    [Contact]()
+[About]()	    
+[Projects]()	    
+[Contact]()
 
 ## Data Science Portfolio Projects
 
