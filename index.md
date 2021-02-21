@@ -1,31 +1,4 @@
-<!DOCTYPE HTML>
-  </head>
-	  <body>
-		  <div id="page-wrapper">
-
-			  <!-- Header -->
-				  <div id="header-wrapper">
-					  <div class="container">
-						  <div class="row">
-							  <div class="col-12">
-
-								  <header id="header">
-									  <h1><a href="index.html" id="logo">Welcome to Odunayo Onifade's Website!</a></h1>
-									  <nav id="nav">
-										  <a href="index.html" class="current-page-item">About</a>
-										  <a href="twocolumn1.html"> GIS Stacks </a>
-										  <a href="twocolumn2.html"> Data Analytics </a>
-										  <a href="onecolumn.html"> Data Science</a>
-										  <a href="threecolumn.html">Contact</a>
-									  </nav>
-								  </header>
-
-							  </div>
-						  </div>
-					  </div>
-				  </div>
-
-    </body>
+[**Odunayo's Portofolio**](https://github.com/Krismars19/odunayoonifade/tree/gh-pages)	[About]()	[Projects]()	[Contact]()
 
 ## Data Science Portfolio Projects
 
