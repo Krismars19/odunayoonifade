@@ -1,4 +1,8 @@
-[**Odunayo's Portofolio**](https://github.com/Krismars19/odunayoonifade/tree/gh-pages)	[About]()	[Projects]()	[Contact]()
+[**Odunayo's Portofolio**](https://github.com/Krismars19/odunayoonifade/tree/gh-pages)	
+
+![Photo](https://github.com/Krismars19/odunayoonifade/blob/gh-pages/Images/Odunayo's%20photo.jpg)
+
+[About]()	    [Projects]()	    [Contact]()
 
 ## Data Science Portfolio Projects
 
