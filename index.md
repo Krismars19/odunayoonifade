@@ -8,6 +8,8 @@
 
 [Contact]()
 
+![Data Science](https://github.com/Krismars19/odunayoonifade/blob/gh-pages/Images/ds_uw.png)
+
 ## Data Science Portfolio Projects
 
 Odunayo Onifade is a data scientist with a background in Urban Planning and Geomatics who focuses on solving problems in the telematics industry.  
